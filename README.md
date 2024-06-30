@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cbuchele&label=Profile%20views&color=0e75b6&style=flat" alt="cbuchele" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cbuchele" alt="cbuchele" /></a> </p>
-
-- 🔭 I’m currently working on [- **Sigma UpGrade S-lock**, - **FSFA**, - **Alfalogica API**](N/A)
+- 🔭 I’m currently working on Sigma UpGrade S-lock,FSFA, Alfalogica API(N/A)
 
 - 🌱 I’m currently learning **Cyber Defense, React Native, Reflex**
 
-- 👯 I’m looking to collaborate on [**Security and Penetration Testing Projects**](carlosenbuchele@gmail.com)
+- 👯 I’m looking to collaborate on **Security and Penetration Testing Projects**
 
-- 🤝 I’m looking for help with ****Advanced Web Security Techniques****
+- 🤝 I’m looking for help with **Advanced Web Security Techniques**
 
 - 💬 Ask me about **Python, FastAPI, Pentesting, React and Web Development, Vulnerability Scanning,Red Team/Blue Team Operations**
 
