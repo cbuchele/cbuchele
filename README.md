@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Eduardo</h1>
-<h3 align="center">A Fullstack Web Developer, Cyber Security Specialist, and Python Backend Developer.</h3>
+<h3 align="center">A Fullstack Web Developer, Cyber Security Specialist, Full Stack Developer, and AI Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cbuchele&label=Profile%20views&color=0e75b6&style=flat" alt="cbuchele" /> </p>
 
