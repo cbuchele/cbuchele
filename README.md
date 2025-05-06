@@ -41,7 +41,7 @@
 <h3 align="left">🚀 Key Projects:</h3>
 <ul>
   <li><strong>AegisAI</strong> – A cybersecurity SaaS platform using AI to assist with analyzing tool outputs (like Burp, Nmap, etc), generating attack surface reports, and issuing PDF reports with automated insights. Also includes training and certification system for clients. <a href="https://aegisai.com.br" target="_blank">https://aegisai.com.br</a></li>
-  <li><strong>SuiMail</strong> – A decentralized Web3 communication platform built on the Sui Blockchain<a href="https://suimail.xyz" target="_blank">https://suimail.xyz</a></li>
+  <li><strong>SuiMail</strong> – A decentralized Web3 communication platform built on the Sui Blockchain. <a href="https://suimail.xyz" target="_blank">https://suimail.xyz</a></li>
   <li><strong>Alfalogica API</strong> – A credential and training management system built with FastAPI and MySQL, managing employee-level access and certificates</li>
 </ul>
 
