@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cbuchele&label=Profile%20views&color=0e75b6&style=flat" alt="cbuchele" /> </p>
 
-- 🔭 I’m currently working on **AegisAI** (https://aegisai.com.br), **SuiMail**, and secure API integrations
+- 🔭 I’m currently working on **AegisAI** (https://aegisai.com.br), **SuiMail**(https://suimail.xyz), and secure API integrations
 
 - 🌱 I’m currently exploring **Smart Contract Auditing, Blockchain Security, Web3 dApps, and AI-enhanced threat detection**
 
