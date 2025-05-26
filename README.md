@@ -27,6 +27,7 @@
 
 <h3 align="left">📜 Certifications:</h3>
 <ul>
+  <li>✅ Cyber Threat Management (Cisco)</li>
   <li>✅ Certified Ethical Hacker (CEH)</li>
   <li>✅ Ethical Hacking Essentials (EHE)</li>
   <li>✅ Network Defense Essentials (NDE)</li>
