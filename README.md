@@ -1,68 +1,78 @@
 <h1 align="center">Hi 👋, I'm Carlos Eduardo</h1>
-<h3 align="center">A Fullstack Web Developer, Cyber Security Specialist, Python Backend Developer, and AI Enthusiast.</h3>
+<h3 align="center">A Fullstack Web Developer, Python Backend Engineer, Cybersecurity Specialist, and AI LLM Specialist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cbuchele&label=Profile%20views&color=0e75b6&style=flat" alt="cbuchele" /> </p>
-
-- 🔭 I’m currently working on **AegisAI** (https://aegisai.com.br), **SuiMail**(https://suimail.xyz), and secure API integrations
-
-- 🌱 I’m currently exploring **Smart Contract Auditing, Blockchain Security, Web3 dApps, and AI-enhanced threat detection**
-
-- 👯 I’m looking to collaborate on **Web3 Security Audits, Penetration Testing Projects, and AI-driven cybersecurity SaaS**
-
-- 🤝 I’m looking for help with **advanced front-end Web3 integration and smart contract vulnerability research**
-
-- 💬 Ask me about **Python, FastAPI, Pentesting, React and Web Development, Red/Blue Team Ops, Web3 Security, Sui & Move**
-
-- 📫 How to reach me **carlosenbuchele@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/carlos-e-041075181/](https://www.linkedin.com/in/carlos-e-041075181/)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/carlos-e-041075181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Carlos Eduardo LinkedIn" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=cbuchele&label=Profile%20views&color=0e75b6&style=flat" alt="cbuchele" />
 </p>
 
+---
+
+## 💻 Developer Focus
+
+- 🔭 Currently building:
+  - **AegisDesktop** – A local LLM client for on sight LLM usage, build with python as a backend, and electron as a front end. Complete with MCP plugin system.: [aegisai.com.br](https://aegisai.com.br)  
+  - **AegisAI**: Cybersecurity learning platform with free courses, certification, and AI-based tools ([aegisai.com.br](https://aegisai.com.br))
+  - **SuiMail**: Decentralized secure communication on the Sui blockchain ([suimail.xyz](https://suimail.xyz))
+  - Custom Electron apps and internal tooling for security ops and secure API management
+  - Full Stack development of web apps, and mobile apps.
+
+- 🌱 Learning & Building in:
+  - Smart Contracts, Solidity & Move language
+  - FastAPI + Supabase + Next.js for modern web stacks
+  - Browser automation, Puppeteer, Electron integrations
+
+- 💬 Ask me about:  
+  `FastAPI`, `React`, `Next.js`, `Electron`, `Python`, `TypeScript`, `REST APIs`, `DevOps`, `Supabase`, `Mobile apps`
+
+---
+
+## 🔐 Cybersecurity Focus
+
+I also work professionally as a security analyst and ethical hacker. I build secure systems, perform audits, and automate red/blue team workflows.
+
+- Penetration Testing (Web, Infra, APIs, Mobile)
+- Vulnerability Management, Threat Hunting, SOC Integration
+- Secure Coding Audits, Reverse Engineering, AI-Powered Detection
+- LGPD & ISO 27001 Compliance Automation
+- Real-world experience with OWASP, PTES, MITRE ATT&CK, and OSSTMM
+
+---
+
+## 📜 Certifications
+
+- 🏅 Certified Ethical Hacker (CEH)
+- ✅ Ethical Hacking Essentials (EHE)
+- ✅ Network Defense Essentials (NDE)
+- ✅ Secure Coding in Python
+- ✅ Python para Cibersegurança
+- ✅ Cyber Threat Management (Cisco)
+- ✅ OWASP Top 10 Hands-on
+- ✅ Red Team / Blue Team Fundamentals
+- ✅ Analista de Cibersegurança – Governança
+
+📄 [View my resume on LinkedIn](https://www.linkedin.com/in/carlos-e-041075181/)
+
+---
+
+## 🚀 Key Projects
+- 💻 **AegisDesktop** – A local LLM client for on sight LLM usage, build with python as a backend, and electron as a front end. Complete with MCP plugin system.: [aegisai.com.br](https://aegisai.com.br)  
+- 🔐 **AegisAI** – Free cybersecurity training, certification, and offensive/defensive security tools: [aegisai.com.br](https://aegisai.com.br)  
+- 💬 **SuiMail** – Decentralized, encrypted Web3 email with NFT utility: [suimail.xyz](https://suimail.xyz)  
+- 🧠 **Alfalogica** – Internal credential manager & training system for compliance enforcement (FastAPI + MySQL)
+
+---
+
+## 📫 Connect With Me
+
+<a href="https://linkedin.com/in/carlos-e-041075181" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Carlos Eduardo LinkedIn" height="30" width="40" />
+</a>
+&nbsp;&nbsp;&nbsp;📧 Email: carlosenbuchele@gmail.com
+
+---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-<h3 align="left">📜 Certifications:</h3>
-<ul>
-  <li>✅ Cyber Threat Management (Cisco)</li>
-  <li>✅ Certified Ethical Hacker (CEH)</li>
-  <li>✅ Ethical Hacking Essentials (EHE)</li>
-  <li>✅ Network Defense Essentials (NDE)</li>
-  <li>✅ Python para Cibersegurança</li>
-  <li>✅ Analista de Cibersegurança – Governança</li>
-  <li>✅ Fundamentos de Segurança Offensive (Red Team)</li>
-  <li>✅ Fundamentos de Segurança Defensive (Blue Team)</li>
-  <li>✅ Secure Coding in Python</li>
-  <li>✅ OWASP Top 10 Hands-on</li>
-</ul>
-
-<h3 align="left">🚀 Key Projects:</h3>
-<ul>
-  <li><strong>AegisAI</strong> – A cybersecurity education platform with free courses, ctfs, and paid trainings. Also includes certification system for clients, and security consultation, security audits, and pentests in general. <a href="https://aegisai.com.br" target="_blank">https://aegisai.com.br</a></li>
-  <li><strong>SuiMail</strong> – A decentralized Web3 communication platform built on the Sui Blockchain. <a href="https://suimail.xyz" target="_blank">https://suimail.xyz</a></li>
-  <li><strong>Alfalogica API</strong> – A credential and training management system built with FastAPI and MySQL, managing employee-level access and certificates</li>
-</ul>
-
-<h3 align="left">🔒 Cybersecurity Focus Areas:</h3>
-<ul>
-  <li>Penetration Testing (Web, Infra, API, Mobile)</li>
-  <li>Threat Hunting, Vulnerability Management</li>
-  <li>Reverse Engineering & Malware Analysis</li>
-  <li>SIEM, SOC, EDR, XDR integrations</li>
-  <li>ISO 27001, LGPD Compliance Consulting</li>
-  <li>OWASP, PTES, OSSTMM Methodologies</li>
-  <li>Firewall Configuration, Honeypots, WAF, IDS/IPS</li>
-</ul>
-
-<h3 align="left">🌐 Future Services Coming Soon:</h3>
-<ul>
-  <li>🔍 Web3 Smart Contract Security Audits (Sui, Solidity)</li>
-  <li>📚 Expanded Security Awareness & Employee Training Packages</li>
-  <li>⚙️ Public API for uploading tool output & receiving PDF + JSON vulnerability report</li>
-</ul>
 
 # Knowledge List of Cybersecurity Tools
 ## Reconnaissance:
@@ -168,20 +178,4 @@
     <img src="https://img.shields.io/badge/-Sonatype-2196F3?style=for-the-badge&logo=&logoColor=white" />
 </div>
 
-## Skills
-
-   | Skill                                         |
-   |-----------------------------------------------|
-   | Information Security                          |
-   | Security Architect                            |
-   | NIST (National Institute of Standards and Technology) |
-   | Vulnerability Assessment                      |
-   | OWASP                                         |
-   | Security Controls                             |
-   | Code Review                                   |
-   | Web Application Security                      |
-   | SDLC (Software Development Life Cycle)        |
-   | Penetration Testing                           |
-   | Exploitation Techniques                       |
-   | Social Engineering                            |
 
