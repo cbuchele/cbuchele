@@ -10,8 +10,8 @@
 ## 💻 Developer Focus
 
 - 🔭 Currently building:
-  - **AegisDesktop** – A local LLM client for on sight LLM usage, build with python as a backend, and electron as a front end. Complete with MCP plugin system.: [aegisai.com.br](https://aegisai.com.br)  
-  - **AegisAI**: Cybersecurity learning platform with free courses, certification, and AI-based tools ([aegisai.com.br](https://aegisai.com.br))
+  - **AegisDesktop** – A local LLM client for on sight LLM usage, build with python as a backend, and electron as a front end. Complete with MCP plugin system.: ([https://www.aegisai.com.br/pt-BR](https://www.aegisai.com.br/pt-BR))) 
+  - **AegisAI**: Cybersecurity learning platform with free courses, certification, and AI-based tools ([https://www.aegisai.com.br/pt-BR](https://www.aegisai.com.br/pt-BR)))
   - **SuiMail**: Decentralized secure communication on the Sui blockchain ([suimail.xyz](https://suimail.xyz))
   - Custom Electron apps and internal tooling for security ops and secure API management
   - Full Stack development of web apps, and mobile apps.
