@@ -10,21 +10,29 @@
 ## 💻 Developer Focus
 
 - 🔭 Currently building:
-  - **AegisDesktop** – A local LLM client for on sight LLM usage, build with python as a backend, and electron as a front end. Complete with MCP plugin system.: ([https://www.aegisai.com.br/pt-BR](https://www.aegisai.com.br/pt-BR))) 
-  - **AegisAI**: Cybersecurity learning platform with free courses, certification, and AI-based tools ([https://www.aegisai.com.br/pt-BR](https://www.aegisai.com.br/pt-BR)))
-  - **SuiMail**: Decentralized secure communication on the Sui blockchain ([suimail.xyz](https://suimail.xyz))
-  - Custom Electron apps and internal tooling for security ops and secure API management
-  - Full Stack development of web apps, and mobile apps.
+  - **AegisDesktop** – A local LLM client for on-site usage, built with Python (FastAPI) as backend and Electron as frontend. Supports MCP plugin system for AI agent orchestration. ([https://www.aegisai.com.br/pt-BR](https://www.aegisai.com.br/pt-BR))
+  - **AegisAI** – Cybersecurity learning platform with free AI-powered courses, certifications, and automation tools. ([https://www.aegisai.com.br/pt-BR](https://www.aegisai.com.br/pt-BR))
+  - **SuiMail** – Decentralized, encrypted communication on the Sui blockchain. ([https://suimail.xyz](https://suimail.xyz))
+  - **Solana Analytics API** – Full-stack data platform for Solana:
+    - `FastAPI` backend with REST + WebSocket stream updates
+    - `Next.js` dashboard frontend with real-time blockchain analytics
+    - Celery for async background tasks (`celery -A worker.celery_worker worker -l info -c 12`)
+    - Cloudflare Mindshare scraper bypass (`python3 server.py`)
+    - MCP server for PostgreSQL LLM contact (`npx -y mcp-postgres-full-access postgresql://...`)
+    - Custom MCP agent for Helius RPC, Solscan API, and AI data pipelines
+  - Custom Electron tools for secure API usage and internal ops
+  - Full-stack development of web and mobile apps
 
 - 🌱 Learning & Building in:
-  - Smart Contracts, Solidity & Move language
-  - FastAPI + Supabase + Next.js for modern web stacks
-  - Browser automation, Puppeteer, Electron integrations
+  - Smart Contracts with Solidity & Move
+  - Google ADK for multi-agent AI orchestration
+  - n8n flows for automation and async tasking
+  - FastAPI + Supabase + Next.js for modern web back/front stacks
+  - Browser automation, Puppeteer, and Electron-based apps
 
 - 💬 Ask me about:  
-  `FastAPI`, `React`, `Next.js`, `Electron`, `Python`, `TypeScript`, `REST APIs`, `DevOps`, `Supabase`, `Mobile apps`
+  `FastAPI`, `React`, `Next.js`, `Electron`, `Python`, `TypeScript`, `WebSockets`, `Celery`, `Supabase`, `MCP`, `Smart Contracts`, `Solana APIs`, `n8n`, `Secure AI Infra`, `Desktop App Dev`, `LLM Agent Systems`
 
----
 
 ## 🔐 Cybersecurity Focus
 
