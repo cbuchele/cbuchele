@@ -10,8 +10,8 @@
 ## 💻 Developer Focus
 
 - 🔭 Currently building:
-  - **AegisDesktop** – A local LLM client for on-site usage, built with Python (FastAPI) as backend and Electron as frontend. Supports MCP plugin system for AI agent orchestration. ([https://www.aegisai.com.br/pt-BR](https://www.aegisai.com.br/pt-BR))
-  - **AegisAI** – Cybersecurity learning platform with free AI-powered courses, certifications, and automation tools. ([https://www.aegisai.com.br/pt-BR](https://www.aegisai.com.br/pt-BR))
+  - **AegisDesktop** – A local LLM client for on-site usage, built with Python (FastAPI) as backend and Electron as frontend. Supports MCP plugin system for AI agent orchestration. ([https://www.aegisai.com.br](https://www.aegisai.com.br))
+  - **AegisAI** – . ([https://www.aegisai.com.br](https://www.aegisai.com.br))
   - **SuiMail** – Decentralized, encrypted communication on the Sui blockchain. ([https://suimail.xyz](https://suimail.xyz))
   - **Solana Analytics API** – Full-stack data platform for Solana:
     - `FastAPI` backend with REST + WebSocket stream updates
@@ -64,7 +64,7 @@ I also work professionally as a security analyst and ethical hacker. I build sec
 
 ## 🚀 Key Projects
 - 💻 **AegisDesktop** – A local LLM client for on sight LLM usage, build with python as a backend, and electron as a front end. Complete with MCP plugin system.: [aegisai.com.br](https://aegisai.com.br)  
-- 🔐 **AegisAI** – Free cybersecurity training, certification, and offensive/defensive security tools: [aegisai.com.br](https://aegisai.com.br)  
+- 🔐 **AegisAI** – : [aegisai.com.br](https://aegisai.com.br)  
 - 💬 **SuiMail** – Decentralized, encrypted Web3 email with NFT utility: [suimail.xyz](https://suimail.xyz)  
 - 🧠 **Alfalogica** – Internal credential manager & training system for compliance enforcement (FastAPI + MySQL)
 
